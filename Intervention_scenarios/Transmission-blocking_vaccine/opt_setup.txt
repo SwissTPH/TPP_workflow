@@ -1,0 +1,10 @@
+CM_name	EIR	Halflife	Efficacy	Coverage	Access	Param_opt
+LowCM	1	0.58	0.85	0	0.1	Coverage
+MidCM	1	0.58	0.85	0	0.25	Coverage
+HighCM	1	0.58	0.85	0	0.5	Coverage
+LowCM	1	0.5	0.85	0.6	0.1	Halflife
+MidCM	1	0.5	0.85	0.6	0.25	Halflife
+HighCM	1	0.5	0.85	0.6	0.5	Halflife
+LowCM	1	0.58	0.3	0.6	0.1	Efficacy
+MidCM	1	0.58	0.3	0.6	0.25	Efficacy
+HighCM	1	0.58	0.3	0.6	0.5	Efficacy

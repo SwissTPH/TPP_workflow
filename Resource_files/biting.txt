@@ -1,0 +1,1 @@
+Biting_pattern	indoor	outdoorHigh_indoor	80	20Mid_indoor	50	50Low_indoor	20	80
